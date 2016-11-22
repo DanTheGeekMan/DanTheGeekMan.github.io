@@ -1,10 +1,8 @@
 ---
 layout: home
 title: Home
-<!-- landing-title: Hi, my name is Forty -->
 landing-title: Hi, welcome to my Portfolio.
-description: 
-<!-- image: https://avatars3.githubusercontent.com/u/19929524?v=3&s=460 -->
+description:
 author: DanTheGeekMan
 nav-menu:
 ---
